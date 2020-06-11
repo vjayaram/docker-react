@@ -21,9 +21,9 @@ deploy:
   on:
     branch: master
   access_key_id: 
-    secure: "AKIAUBF4BL3TBR7WPKNY"
+    secure: "Encrypted AKIAUBF4BL3TBR7WPKNY-"
   secret_access_key: 
-    secure: "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"
+    secure: "Encrypted uly13ZtNIc6M1osY5ATGlBXkZzZ881ca0sNMHXpD-"
 
 
 
